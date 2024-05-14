@@ -2015,6 +2015,13 @@ document.addEventListener('DOMContentLoaded', () => {
       say: "This is a PC game On ChromeBook (will probs crash) so, yeah",
       error: false
     },
+    {
+      name: "!a Working Mr. Mine",
+      link: "https://www.coolmathgames.com/0-mr-mine/play",
+      image: "/images/icons/mrmine.webp",
+      categories: ['all'],
+      error: false
+    },
   ];
   
   function saveToLocal(path) {
