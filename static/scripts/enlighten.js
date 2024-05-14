@@ -645,6 +645,13 @@ document.addEventListener('DOMContentLoaded', () => {
     error: false
   },
   {
+    name: "!a Working Cat Ninja",
+    link: "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2Fcat-ninja.xml&container=ig",
+    image: "/images/icons/cat-ninja.webp",
+    categories: ['all'],
+    error: false
+  },
+  {
     name: "Candy Box",
     link: "https://candybox2.net",
     image: "/images/icons/candybox.webp",
